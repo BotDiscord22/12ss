@@ -368,4 +368,4 @@ client.on('message', ( message ) => {
 } );
 
 
-client.login('NjI5OTk0MDM4Njk0NzcyNzM2.XZoStA.vGnWEpJ9qiNZgFqppVQ3COBwjGk'); //استبدل التوكن هنا
+client.login('NjI5OTk0MDM4Njk0NzcyNzM2.XdnNjA._L1ZffBd7NURhvvXa9IUB9XpQuI'); //استبدل التوكن هنا
